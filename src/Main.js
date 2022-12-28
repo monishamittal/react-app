@@ -16,5 +16,31 @@ function Main () {
 </div>
     )
 }
-
+function Main(){
+    return(
+        <div >
+        <div className="mystyle">
+            <img src={photo}/>
+</div>
+</div>
+)
+}
+function Main(){
+    return(
+        <div >
+        <div className="newstyle">
+            <img src={photo}/>
+</div>
+</div>
+)
+}
+function Main(){
+    return(
+        <div >
+        <div className="creative">
+            <img src={photo}/>
+</div>
+</div>
+)
+}
 export default Main;

@@ -1,4 +1,28 @@
  .photo img{
 width:70rem;
-
- } 
+padding: 25px;
+background-color: yellow;
+color:grey;
+font-size: 25px;
+} 
+.mystyle{
+    width: 70rem;
+  padding: 25px;
+  background-color: coral;
+  color: white;
+  font-size: 25px;
+}
+.newstyle{
+    width: 70rem;
+    padding: 25px;
+    background-color: blue;
+    color:green;
+    font-size: 25px;
+}
+.creative{
+    width: 70rem;
+    padding: 25px;
+    background-color: rebeccapurple;
+    color: darkblue;
+    font-size: 25px;
+}
